@@ -1,3 +1,9 @@
+## 参考にしたサイト
+https://techtechmedia.com/search-movies-app-react/
+
+## 原典
+https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
